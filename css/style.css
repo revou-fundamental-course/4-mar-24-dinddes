@@ -1,0 +1,39 @@
+header>h1 {
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+}
+
+.container-item {
+    background-color: rgb(175, 218, 255);
+    width: 100%;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    border-color: beige;
+    border-radius: 10px;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+  background: #d7e8f0;
+}
+
+.Result-button {
+  width: 100px;
+  padding: 5px 0;
+  margin-top: 10px;
+  border-style: none;
+  background: #17b0f794;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+main {
+    padding: 50px;
+    margin: 50px;
+    border: solid black;
+}
